@@ -7,7 +7,7 @@
 
 ## Download Excel File
 
-[Download the Excel Project](project-files/Data-Science-Dashboard.xlsx)
+[Download the Excel Project](project-files/Excel-Data-Science-Dashboard.xlsx)
 
 ## Overview
 
