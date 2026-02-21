@@ -5,6 +5,10 @@
 # ExcelFormatting
 # Excel Formatting Project
 
+## Download Project
+
+You can download the Excel file from the `project-files` folder.
+
 ## Overview
 
 The goal of the project was to transform raw job listing data into a clean, 
